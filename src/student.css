@@ -1,0 +1,82 @@
+.each-student{
+    display:block;
+    overflow: hidden;
+    padding:5%;
+    text-align: left;
+    border-bottom: 0.2px solid rgb(113, 119, 133);
+}
+.student-info{
+    position: relative;
+    overflow: hidden;
+
+    padding:10px;
+}
+.student-name{
+    font-size:48px;
+    font-weight:bold;
+    margin-left:0;
+    margin-bottom:10px;
+}
+img {
+    float:left;
+    margin-left:10%;
+    margin:10px;
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    border: solid 1px #111111;
+}
+ul{
+    list-style: none;
+}
+
+li{
+    font-size: 18px;
+    margin-left:20px;
+}
+
+input {
+    border:none;
+    font-size:20px;
+    margin-left: 20px;
+    position:sticky;
+    top:0;
+    padding:5px;
+    margin:5px;
+}
+.tagAndName {
+    width: 100%; 
+    border-bottom:  2px solid #111111;
+}
+
+.button{
+    float:right;
+
+}
+button{
+    border: none;
+    font-size:40px;
+    background-color: aliceblue;
+    font-weight: bold;
+}
+
+#add-tag-input{
+    font-size: medium;
+    color:#111111;
+    border-bottom: 1px solid #111111;
+}
+
+.tag {
+    background-color: bisque;
+    border: 1px solid, #111111;
+    display:inline-block;
+    margin:5px;
+    padding: 5px;
+}
+
+@media screen and (max-width: 576px) {
+    img{
+        float:none;
+    }
+
+}
