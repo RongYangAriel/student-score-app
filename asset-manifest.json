@@ -5,17 +5,17 @@
     "main.js.map": "/student-score-app/static/js/main.156e100f.chunk.js.map",
     "runtime-main.js": "/student-score-app/static/js/runtime-main.446952a9.js",
     "runtime-main.js.map": "/student-score-app/static/js/runtime-main.446952a9.js.map",
-    "static/js/2.9b71710d.chunk.js": "/student-score-app/static/js/2.9b71710d.chunk.js",
-    "static/js/2.9b71710d.chunk.js.map": "/student-score-app/static/js/2.9b71710d.chunk.js.map",
+    "static/js/2.171b21e5.chunk.js": "/student-score-app/static/js/2.171b21e5.chunk.js",
+    "static/js/2.171b21e5.chunk.js.map": "/student-score-app/static/js/2.171b21e5.chunk.js.map",
     "index.html": "/student-score-app/index.html",
-    "precache-manifest.a4c23fd051b1e6280f2c5183028e5d27.js": "/student-score-app/precache-manifest.a4c23fd051b1e6280f2c5183028e5d27.js",
+    "precache-manifest.b154b8ed9523302a06e4d69a0a221b4d.js": "/student-score-app/precache-manifest.b154b8ed9523302a06e4d69a0a221b4d.js",
     "service-worker.js": "/student-score-app/service-worker.js",
     "static/css/main.24ef63fb.chunk.css.map": "/student-score-app/static/css/main.24ef63fb.chunk.css.map",
-    "static/js/2.9b71710d.chunk.js.LICENSE.txt": "/student-score-app/static/js/2.9b71710d.chunk.js.LICENSE.txt"
+    "static/js/2.171b21e5.chunk.js.LICENSE.txt": "/student-score-app/static/js/2.171b21e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.446952a9.js",
-    "static/js/2.9b71710d.chunk.js",
+    "static/js/2.171b21e5.chunk.js",
     "static/css/main.24ef63fb.chunk.css",
     "static/js/main.156e100f.chunk.js"
   ]

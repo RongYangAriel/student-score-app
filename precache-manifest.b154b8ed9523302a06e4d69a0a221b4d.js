@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ea8beafc4063412f9ecc2e0e801950e",
+    "revision": "ee92aaa3371fc6da7be4cee5e01066ee",
     "url": "/student-score-app/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/student-score-app/static/css/main.24ef63fb.chunk.css"
   },
   {
-    "revision": "e986a84e8409e8843cae",
-    "url": "/student-score-app/static/js/2.9b71710d.chunk.js"
+    "revision": "5394fa793627539419c3",
+    "url": "/student-score-app/static/js/2.171b21e5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/student-score-app/static/js/2.9b71710d.chunk.js.LICENSE.txt"
+    "url": "/student-score-app/static/js/2.171b21e5.chunk.js.LICENSE.txt"
   },
   {
     "revision": "84f5dcc14d0da1d9d249",
